@@ -1,0 +1,20 @@
+p.subtitle.is-6 {
+    max-width: 680px;
+}
+
+div.push {
+    margin-top: 14px;
+}
+
+div.column.is-3 img {
+    width: auto;
+    height: 200px;
+}
+
+a.button.is-white.is-flat {
+    color: #4A4A4A;
+    padding: 0 0;
+    margin-top: -12px;
+    font-weight: 900;
+    font-size: 12px;
+}
